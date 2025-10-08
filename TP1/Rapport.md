@@ -110,7 +110,7 @@ Les fonctions de visualisation (`plot_covariance_ellipse` et les plots matplotli
 
 Avec le code complet du filtre, on obtient le résultat suivant :
 
-![Figure 1](/Figure_1.png)
+![Figure 1](img/Figure_1.png)
 
 ---
 
@@ -122,11 +122,11 @@ Ainsi, augmenter `dt_meas` fait que les mesures se produisent moins fréquemment
 
 Dans la figure ci-dessous, `dt_meas` a un coefficient de **10** :
 
-![dt\_meas = 10](/dt_meas_10.png)
+![dt\_meas = 10](img/dt_meas_10.png)
 
 Dans la figure ci-dessous, `dt_meas` a un coefficient de **100** :
 
-![dt\_meas = 100](/dt_meas_100.png)
+![dt\_meas = 100](img/dt_meas_100.png)
 
 ---
 
@@ -137,11 +137,11 @@ On observe que l’augmentation de `QEst` entraîne une plus grande dispersion d
 
 Dans la figure ci-dessous, `QEst` a un coefficient de **10** :
 
-![QEst = 10](/QEst_10.png)
+![QEst = 10](img/QEst_10.png)
 
 Dans la figure ci-dessous, `QEst` a un coefficient de **100** :
 
-![QEst = 100](/QEst_100.png)
+![QEst = 100](img/QEst_100.png)
 
 ---
 
@@ -153,11 +153,11 @@ Le filtre montre sa robustesse, car même avec des mesures moins fiables, l’es
 
 Dans la figure ci-dessous, `REst` a un coefficient de **10** :
 
-![REst = 10](/Rest_10.png)
+![REst = 10](img/Rest_10.png)
 
 Dans la figure ci-dessous, `REst` a un coefficient de **100** :
 
-![REst = 100](/Rest_100.png)
+![REst = 100](img/Rest_100.png)
 
 ---
 
@@ -169,7 +169,7 @@ Dès que les mesures reprennent, le filtre se réajuste rapidement à la traject
 
 Résultat du système :
 
-![Exercice 6](/exc_6.png)
+![Exercice 6](img/exc_6.png)
 
 ---
 
@@ -188,7 +188,7 @@ Cela entraîne des incertitudes plus importantes sur les axes x et y, mais la tr
 
 Résultat du système :
 
-![Exercice 8](/exc_8.png)
+![Exercice 8](img/exc_8.png)
 
 ---
 
@@ -200,5 +200,5 @@ Avec peu de *landmarks*, le filtre devient moins observable et la trajectoire pe
 
 Résultat du système :
 
-![Exercice 9](/exc_9.png)
+![Exercice 9](img/exc_9.png)
 
