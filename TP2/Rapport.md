@@ -213,11 +213,11 @@ En résumé :
 
 Dans la figure ci-dessous, `REst` a un coefficient de **10** :
 
-![REst = 10](img/Rest_10_Q4.png)
+![REst = 10](img/REst_10_Q4.png)
 
 Dans la figure ci-dessous, `REst` a un coefficient de **100** :
 
-![REst = 100](img/Rest_100_Q4.png)
+![REst = 100](img/REst_100_Q4.png)
 
 ---
 
